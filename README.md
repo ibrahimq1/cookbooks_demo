@@ -1,4 +1,5 @@
 # workstation
 
-TODO: Enter the cookbook description here.
+Workstation cookbook has the following features:
 
+#TODO
